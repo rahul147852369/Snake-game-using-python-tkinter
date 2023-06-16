@@ -40,3 +40,15 @@ This snake game implementation is based on the Pygame library, which provides th
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
+
+## Contact
+
+If you have any questions or need further assistance, please feel free to reach out.
+
+- Email: kulkarnirahul349@gmail.com
+- GitHub: https://github.com/rahul147852369
+
+
